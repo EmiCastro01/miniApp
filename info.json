@@ -1,0 +1,44 @@
+{
+    "Emi": {
+        "id" : 1,
+        "edad" : 21,
+        "Nombre" : "Emiliano",
+        "Apellido" : "Castro"
+    },
+    "Coti": {
+        "id" : 2,
+        "edad" : 21,
+        "Nombre" : "Constanza",
+        "Apellido" : "Quintero"
+    },
+    "Giuli": {
+        "id" : 3,
+        "edad" : 22,
+        "Nombre" : "Giuliano",
+        "Apellido" : "Romanello"
+    },
+    "Santi": {
+        "id" : 4,
+        "edad" : 21,
+        "Nombre" : "Santiago",
+        "Apellido" : "Perez"
+    },
+    "Prisci": {
+        "id" : 5,
+        "edad" : 22,
+        "Nombre" : "Priscila",
+        "Apellido" : "Martinez"
+    },
+    "Sandri": {
+        "id" : 6,
+        "edad" : 21,
+        "Nombre" : "Sandra",
+        "Apellido" : "Camisay"
+    },
+    "Gabi": {
+        "id" : 7,
+        "edad" : 22,
+        "Nombre" : "Gabriel",
+        "Apellido" : "Martin"
+    }
+}
